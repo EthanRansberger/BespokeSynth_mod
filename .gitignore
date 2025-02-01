@@ -409,3 +409,22 @@ run_cmake*.bat
 run_cmake*.sh
 
 scripts/installer_macOS/Bespoke-Mac.dmg
+
+build_bespoke.bat
+
+notes.md
+build_log.txt
+build_mkIII.sh
+build_mkII.sh
+generate_file_tree.py
+prep.bat
+preptwonosdk.bat
+notesmkiii
+notesmkii.md
+notes_og_
+file_tree.txt
+help.md
+cleanbuild.sh
+bespokesynth_mod.sln
+.treeignore
+
