@@ -428,3 +428,5 @@ cleanbuild.sh
 bespokesynth_mod.sln
 .treeignore
 
+standard_install
+

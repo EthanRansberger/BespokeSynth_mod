@@ -3704,6 +3704,27 @@
       "description" : "waveshaping with expressions",
       "type" : "audio effects"
    },
+   "wavetable" : 
+   {
+      "canReceiveAudio" : true,
+      "canReceiveNote" : true,
+      "canReceivePulses" : false,
+      "controls" : 
+      {
+         "env" : "volume envelope",
+         "envA" : "volume envelope attack",
+         "envD" : "volume envelope decay",
+         "envR" : "volume envelope release",
+         "envS" : "volume envelope sustain",
+         "passthrough" : "should input audio pass through as we're recording?",
+         "pitch" : "should we attempt pitch-correct the audio?",
+         "rec" : "enable to clear the current recording, and record new audio once the input threshold is reached",
+         "thresh" : "when recording is enabled, exceed this threshold with input audio to begin recording",
+         "vol" : "output volume"
+      },
+      "description" : "very basic polyphonic pitched sample player and recorder. send audio in, and use note input to play the recorded audio.",
+      "type" : "synths"
+   },
    "whitekeys" : 
    {
       "canReceiveAudio" : false,

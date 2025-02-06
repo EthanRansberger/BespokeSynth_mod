@@ -2258,6 +2258,7 @@
     <ClCompile Include="source\VSTWindow.cpp" />
     <ClCompile Include="source\WaveformViewer.cpp" />
     <ClCompile Include="source\Waveshaper.cpp" />
+    <ClCompile Include="source\Wavetable.cpp" />
     <ClCompile Include="source\WhiteKeys.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -4993,6 +4994,7 @@
     <ClInclude Include="source\VSTWindow.h" />
     <ClInclude Include="source\WaveformViewer.h" />
     <ClInclude Include="source\Waveshaper.h" />
+    <ClInclude Include="source\Wavetable.h" />
     <ClInclude Include="source\WhiteKeys.h" />
     <ClInclude Include="source\WindowCloseListener.h" />
     <ClInclude Include="source\Xoshiro256ss.h" />

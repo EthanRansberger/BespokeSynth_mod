@@ -748,6 +748,8 @@ target_sources(BespokeSynth PRIVATE
     WaveformViewer.h
     Waveshaper.cpp
     Waveshaper.h
+    Wavetable.cpp
+    Wavetable.h
     WhiteKeys.cpp
     WhiteKeys.h
     WindowCloseListener.h

@@ -6420,6 +6420,9 @@
     <ClCompile Include="source\Waveshaper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\Wavetable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="source\WhiteKeys.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -14595,6 +14598,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="source\Waveshaper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+      <ClInclude Include="source\Wavetable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="source\WhiteKeys.h">
